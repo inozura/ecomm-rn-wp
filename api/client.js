@@ -3,8 +3,8 @@ import { create, CancelToken } from "apisauce";
 
 //  Do not change anything above this line if you're not sure about what you're doing.
 
-const domain = "https://yourdomain.com";
-const apiKey = "95g66472-6lb7-42u0-aa73-13r3b3ab94b8";
+const domain = "https://next.yatou.mu";
+const apiKey = "2dd07687-c6f2-466b-9d8a-d4ab653ab70c";
 const apiRequestTimeOut = 30000; // 30 sec
 
 //  Do not change anything below this line if you're not sure about what you're doing.

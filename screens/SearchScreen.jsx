@@ -546,6 +546,7 @@ const SearchScreen = ({ navigation }) => {
           paddingHorizontal: 5,
           borderColor: COLORS.bg_dark,
           backgroundColor: COLORS.white,
+          borderRadius: 10,
         },
         index % 4 !== 0 && {
           borderLeftWidth: 1,
@@ -898,9 +899,9 @@ const SearchScreen = ({ navigation }) => {
                   renderItem={renderCategory}
                   keyExtractor={keyExtractor}
                   numColumns={4}
-                  ItemSeparatorComponent={({ highlighted }) => (
-                    <View style={styles.itemSeparator} />
-                  )}
+                  // ItemSeparatorComponent={({ highlighted }) => (
+                  //   <View style={styles.itemSeparator} />
+                  // )}
                   contentContainerStyle={{
                     borderTopWidth: 1,
                     borderBottomWidth: 1,

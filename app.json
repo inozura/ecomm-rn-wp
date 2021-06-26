@@ -1,13 +1,13 @@
 {
   "expo": {
-    "name": "Classima",
-    "slug": "classima",
+    "name": "Zistou",
+    "slug": "zistou",
     "version": "1.3.9",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
       "image": "./assets/splash.png",
-      "backgroundColor": "#f85c70",
+      "backgroundColor": "#fb4349",
       "resizeMode": "contain"
     },
     "updates": {
@@ -16,7 +16,7 @@
     "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.classima.radiustheme",
+      "bundleIdentifier": "com.zistou",
       "infoPlist": {
         "NSCameraUsageDescription": "This app uses the camera to capture and upload user profile image and Listing Image.",
         "NSLocationWhenInUseUsageDescription": "This app usages device location on listing information, Search Data and User address."
@@ -29,7 +29,7 @@
       "favicon": "./assets/favicon.png"
     },
     "android": {
-      "package": "com.classima.radiustheme",
+      "package": "com.zistou",
       "config": {
         "googleMaps": {
           "apiKey": "AIzbSyCwx5yTQPJlVf04tUtMKPI1JGr4U6Bq9Yc"

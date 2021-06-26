@@ -1,8 +1,8 @@
 export const COLORS = {
-  primary: "#f85c70",
-  primary_soft: "#ff8f9d",
+  primary: "#fb4349",
+  primary_soft: "#fb4349",
 
-  bg_primary: "#ffd1d6",
+  bg_primary: "#fb4349",
   bg_light: "#f9f9f9",
   bg_dark: "#f0f0f0",
 
@@ -36,7 +36,7 @@ export const COLORS = {
   },
 
   button: {
-    disabled: "#f797a3",
-    active: "#f85c70",
+    disabled: "#ff7587",
+    active: "#fb4349",
   },
 };
